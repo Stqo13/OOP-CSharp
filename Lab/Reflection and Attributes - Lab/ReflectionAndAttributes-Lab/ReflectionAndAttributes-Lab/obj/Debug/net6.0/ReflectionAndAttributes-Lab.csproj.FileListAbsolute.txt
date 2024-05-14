@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\bin\Debug\net6.0\ReflectionAndAttributes-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\bin\Debug\net6.0\ReflectionAndAttributes-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\bin\Debug\net6.0\ReflectionAndAttributes-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\bin\Debug\net6.0\ReflectionAndAttributes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\bin\Debug\net6.0\ReflectionAndAttributes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ReflectionAndAttributes-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ReflectionAndAttributes-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ReflectionAndAttributes-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ReflectionAndAttributes-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ReflectionAndAttributes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\refint\ReflectionAndAttributes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ReflectionAndAttributes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ReflectionAndAttributes-Lab.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\ReflectionAndAttributes-Lab\obj\Debug\net6.0\ref\ReflectionAndAttributes-Lab.dll

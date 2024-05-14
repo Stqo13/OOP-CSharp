@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exercise\Inheritance - Exercise\Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exercise\Inheritance - Exercise\Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exercise\Inheritance - Exercise\Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exercise\Inheritance - Exercise\Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache

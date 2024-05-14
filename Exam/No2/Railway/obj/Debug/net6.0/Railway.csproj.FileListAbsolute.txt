@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\bin\Debug\net6.0\Railway.exe
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\bin\Debug\net6.0\Railway.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\bin\Debug\net6.0\Railway.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\Railway.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\refint\Railway.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\Railway.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No2\Railway\obj\Debug\net6.0\ref\Railway.dll

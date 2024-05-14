@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Lab\Reflection and Attributes - Lab\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming OOP C#\Exam\No1\Exam\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
